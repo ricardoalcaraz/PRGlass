@@ -4,11 +4,7 @@
     <projectFile>PRGlass/PRGlass.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5745e588-c713-4232-ae0b-22a40622454c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PRGlass/client/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRGlass/client/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PRGlass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PRGlass/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5745e588-c713-4232-ae0b-22a40622454c" name="Default Changelist" comment="Committed html file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +83,7 @@
       <updated>1620253134737</updated>
       <workItem from="1620253138747" duration="1778000" />
       <workItem from="1620256866583" duration="1709000" />
-      <workItem from="1620265074546" duration="856000" />
+      <workItem from="1620265074546" duration="1164000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1620253349788</created>
@@ -96,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620253349788</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Committed html file">
+      <created>1620267268984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620267268984</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Committed html file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committed html file" />
   </component>
 </project>
